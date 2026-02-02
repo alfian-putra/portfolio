@@ -1,4 +1,3 @@
-import React from "https://unpkg.com/react@18/umd/react.development.js";
 import { useMouse } from "@uidotdev/usehooks";
 
 import "../index.css";
