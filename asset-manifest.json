@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.de6929d5.css",
-    "main.js": "/static/js/main.81f62fcc.js",
-    "static/media/walkator-klMii3cR9iI-unsplash.jpg": "/static/media/walkator-klMii3cR9iI-unsplash.554afdde539586a4a4af.jpg",
-    "static/media/vsga.jpg": "/static/media/vsga.5a1743c0b28e0d0d0a7f.jpg",
-    "static/media/kaggle_py.png": "/static/media/kaggle_py.b9518efa49b08027823f.png",
-    "static/media/kaggle_ml.png": "/static/media/kaggle_ml.e09213a5991ab0e0fe0b.png",
-    "static/media/kaggle_pd.png": "/static/media/kaggle_pd.6bea8967ff339bfd338e.png",
-    "static/media/ln_kernel_logging.jpg": "/static/media/ln_kernel_logging.29daa99feb7d461eb953.jpg",
-    "static/media/gl_aws.jpg": "/static/media/gl_aws.e1817b4b67936f19258d.jpg",
-    "static/media/udemy_nodejs.jpg": "/static/media/udemy_nodejs.3abc48b186f1aacd53b5.jpg",
-    "static/media/ln_os_forensics.jpg": "/static/media/ln_os_forensics.94ffcf1a5d3bccf40aec.jpg",
-    "static/media/udemy_dp.jpg": "/static/media/udemy_dp.220f3c12b7e51b24d176.jpg",
-    "static/media/kvmManager.png": "/static/media/kvmManager.4eb89f247f65e6a5d865.png",
-    "static/media/shiny.png": "/static/media/shiny.aa6f71bf8441ac32f1ec.png",
-    "static/media/superset.png": "/static/media/superset.9a74ad61dd9aad92b9cc.png",
-    "static/media/github.png": "/static/media/github.d8ac0caf8a535af6705a.png",
-    "index.html": "/index.html",
-    "static/media/gmail.svg": "/static/media/gmail.8d13224811ba50d80d2d1d767ca2c831.svg",
-    "main.de6929d5.css.map": "/static/css/main.de6929d5.css.map",
-    "main.81f62fcc.js.map": "/static/js/main.81f62fcc.js.map"
+    "main.css": "/portfolio/static/css/main.de6929d5.css",
+    "main.js": "/portfolio/static/js/main.2fe99254.js",
+    "static/media/walkator-klMii3cR9iI-unsplash.jpg": "/portfolio/static/media/walkator-klMii3cR9iI-unsplash.554afdde539586a4a4af.jpg",
+    "static/media/vsga.jpg": "/portfolio/static/media/vsga.5a1743c0b28e0d0d0a7f.jpg",
+    "static/media/kaggle_py.png": "/portfolio/static/media/kaggle_py.b9518efa49b08027823f.png",
+    "static/media/kaggle_ml.png": "/portfolio/static/media/kaggle_ml.e09213a5991ab0e0fe0b.png",
+    "static/media/kaggle_pd.png": "/portfolio/static/media/kaggle_pd.6bea8967ff339bfd338e.png",
+    "static/media/ln_kernel_logging.jpg": "/portfolio/static/media/ln_kernel_logging.29daa99feb7d461eb953.jpg",
+    "static/media/gl_aws.jpg": "/portfolio/static/media/gl_aws.e1817b4b67936f19258d.jpg",
+    "static/media/udemy_nodejs.jpg": "/portfolio/static/media/udemy_nodejs.3abc48b186f1aacd53b5.jpg",
+    "static/media/ln_os_forensics.jpg": "/portfolio/static/media/ln_os_forensics.94ffcf1a5d3bccf40aec.jpg",
+    "static/media/udemy_dp.jpg": "/portfolio/static/media/udemy_dp.220f3c12b7e51b24d176.jpg",
+    "static/media/kvmManager.png": "/portfolio/static/media/kvmManager.4eb89f247f65e6a5d865.png",
+    "static/media/shiny.png": "/portfolio/static/media/shiny.aa6f71bf8441ac32f1ec.png",
+    "static/media/superset.png": "/portfolio/static/media/superset.9a74ad61dd9aad92b9cc.png",
+    "static/media/github.png": "/portfolio/static/media/github.d8ac0caf8a535af6705a.png",
+    "index.html": "/portfolio/index.html",
+    "static/media/gmail.svg": "/portfolio/static/media/gmail.8d13224811ba50d80d2d1d767ca2c831.svg",
+    "main.de6929d5.css.map": "/portfolio/static/css/main.de6929d5.css.map",
+    "main.2fe99254.js.map": "/portfolio/static/js/main.2fe99254.js.map"
   },
   "entrypoints": [
     "static/css/main.de6929d5.css",
-    "static/js/main.81f62fcc.js"
+    "static/js/main.2fe99254.js"
   ]
 }
