@@ -1,0 +1,255 @@
+h1{
+  font-family: "Bentham", serif;
+  font-style: normal;
+  font-size: 100px;
+  color: whitesmoke;
+}
+
+h2{
+  font-family: "Bentham", serif;
+  font-style: normal;
+  font-size: 70px;
+  color: whitesmoke;
+}
+
+h4{
+  font-family: "Bentham", serif;
+  font-style: normal;
+  font-size: 40px;
+  color: whitesmoke;
+}
+
+a {
+  color: #7137c8ff;
+  text-decoration: underline;
+  display: flex;
+  margin: 0 auto;
+}
+
+body{
+  margin: 0;
+  background-color: #1a1a1aff;
+}
+
+p {
+  font-size: 36px;
+  color: whitesmoke;
+}
+
+/* HEADER SECTION */
+.header {
+  height: 100vh;
+  position: relative;
+  text-align: center;
+}
+
+.header > h1 {
+  padding-top: 20%;
+}
+
+
+/* SKILL SECTION */
+.skill {
+  height: 100vh;
+  width: 60vw;
+  margin: 0 auto;
+}
+
+.skill > h2 {
+  padding-top: 10%;
+  text-align: center;
+}
+
+/* PORTFOLIO SECTION */
+.portfolio {
+  height: 100vh;
+  width: 60vw;
+  margin: 0 auto;
+  position: relative;
+  
+}
+
+.portfolio > h2 {
+  text-align: center;
+  opacity: 5%;
+  font-size: 400px;
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* z-index: 1;
+  position: absolute; */
+}
+
+.portfolio > h4 {
+  text-align: right;
+  text-decoration: underline;
+  text-decoration-color: #7137c8ff;
+  text-decoration-thickness: 4px;
+  margin-bottom: 10%;
+  padding-top: 10%;
+}
+
+.tag {
+  background-color: whitesmoke;
+  color: #1a1a1aff;
+  padding: 5px;
+  margin: 2px;
+  border-radius: 5px;
+}
+
+/* WORK EXPERIENCE SECTION*/
+.workExperience {
+  height: 90vh;
+  overflow:auto; 
+  width: 80vw;
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.workExpWraper {
+  overflow:auto; 
+  margin: 0 auto;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.workExperienceTitle {
+  height: 100%;
+  float: left;
+  width: 30%;
+  display: flex;
+  align-items: center;
+}
+
+.workExperienceTitle > h2 {
+  width: 20%;
+}
+
+.workExperienceList {
+  height: 100%;
+  width: 60%;
+  float: right;
+}
+
+.workExperienceList > div {
+  width: 50%;
+}
+
+.company {
+  color: #7137c8ff;
+}
+
+/* PROJECT SECTION*/
+.projects {
+  height: 100vh;
+  overflow:auto; 
+  width: 70vw;
+  margin: 0 auto;
+  padding: 50px;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.projectsTitle {
+  height: 100%;
+  float: right;
+  width: 30%;
+  margin: 0 auto;
+}
+
+.projectsTitle > h2 {
+  text-align: center;
+}
+
+.projectsList {
+  height: 100%;
+  width: 50%;
+  float: left;
+}
+
+.projectsList > div {
+  width: 50%;
+}
+
+.company {
+  color: #7137c8ff;
+}
+
+/* App */
+.App {
+  height: 100vh;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.App > * {
+  scroll-snap-align: start;
+}
+
+/* CONTACT SECTION */
+.contact {
+  height: 100vh;
+  width: 60vw;
+  margin: 0 auto;
+  position: relative;
+}
+
+.contact > h2 {
+  padding-top: 20vh;
+  text-align: center;
+}
+
+/* MENU */
+.menuLink {
+  text-align: left;
+  font-size: 22px;
+  color: whitesmoke;
+  width: 200px;
+
+}
+
+.menuLink:hover {
+  cursor: pointer;
+  color: rgba(245, 245, 245, 0.795);
+  text-decoration: #7137c8ff underline;
+  text-decoration-thickness: 3px;
+
+}
+
+.ulMenu {
+  text-align: left;
+  top: 30vh;
+  width: 15vw;
+  height: 30vh;
+  list-style-type: none; 
+  position: absolute;
+  z-index: 2;
+}
+
+.ulMenu>li {
+  width: 15vw;
+  margin: 0%;
+}
+
+.ulCert {
+  top: 30vh;
+  width: 80vw;
+  height: 80vh;
+  list-style-type: none; 
+  z-index: 2;
+}
+
+li {
+  padding-bottom: 10px;
+  margin: 0 auto;
+}
