@@ -2,7 +2,6 @@
   "name": "portfolio_landing_page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alfian-putra.github.io/portfolio",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.14.0",
