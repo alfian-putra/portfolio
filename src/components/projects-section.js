@@ -1,4 +1,3 @@
-import React from "https://unpkg.com/react@18/umd/react.development.js";
 
 import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
