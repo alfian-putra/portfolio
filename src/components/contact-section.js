@@ -28,7 +28,7 @@ function ContactSection(prop){
       >
         {prop.cards.map((card) => (
           <Tooltip title={card.title}>
-            <a href={card.link}>
+            <a  target="_blank" rel="noopener noreferrer" href={card.link}>
               <Card
                 sx={{
                     height: "75px",

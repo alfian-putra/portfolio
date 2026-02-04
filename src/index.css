@@ -44,9 +44,14 @@ p {
 }
 
 .header > h1 {
-  padding-top: 20%;
+  padding-top: 15%;
 }
 
+.header>p {
+  font-size: 18px;
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
 
 /* SKILL SECTION */
 .skill {
