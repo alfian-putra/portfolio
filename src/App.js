@@ -18,6 +18,7 @@ import shinyLogo from "./img/shiny.png";
 import pyLogo from "./img/py.png";
 import dataLogo from "./img/dataOrc.png";
 import vueLogo from "./img/vue.png";
+import goLogo from "./img/goLogo.png";
 
 //contacct/find me
 import gmail from "./imgContact/gmail.svg";
@@ -137,6 +138,13 @@ function App() {
                                 "tag": ["VueJS","HTML","CSS"],
                                 "description": "This is college assignment. In this assignment we got a task to make a college material interface to show the material module list and make an order.",
                                 "link": "https://github.com/alfian-putra/college-material-management-interface-VueJS"
+                              },
+                              {
+                                "img" : goLogo,
+                                "name": "Microservice using Go",
+                                "tag": ["Go","Gin"],
+                                "description": "This project containing simple example about how microservice work. The idea is we have a config.yaml that containing server which the value of service that will be made. and then make a route v0,v1,...,vn using createRouter() from controller.go.",
+                                "link": "https://github.com/alfian-putra/go-simple-microservice"
                               }
                           ]}
 
