@@ -42,7 +42,7 @@ function App() {
       <ul className="ulMenu">
         <li>
           <ScrollIntoView className="menuLink" selector=".header">
-            Who am i ?
+            Introduction
           </ScrollIntoView>
         </li>
         <li>
