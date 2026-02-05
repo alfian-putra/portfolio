@@ -52,8 +52,8 @@ function CertSection(prop){
         author : "Udemy"
       },{
         img : certJuniorMobile,
-        title : "Spring Security 6 (JWT, OAuth2)",
-        author : "Udemy"
+        title : "Junior Mobile Programmer",
+        author : "Kominfo"
       }
     ]
 
