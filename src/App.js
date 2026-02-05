@@ -60,11 +60,11 @@ function App() {
             Work Experience
           </ScrollIntoView>
         </li>
-        <li>
+        {/* <li>
           <ScrollIntoView className="menuLink" selector=".projects">
             Projects
           </ScrollIntoView>
-        </li>
+        </li> */}
         <li>
           <ScrollIntoView className="menuLink" selector=".contact">
             Find me
