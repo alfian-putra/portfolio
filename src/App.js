@@ -212,7 +212,7 @@ function App() {
                   "description" : "Develop Hadoop environment that being maintained by Apache Ambari, ensuring the service can be run properly, and test the integration of each service."
               },
               {
-                  "position" : "Electronic Data Processing | IT Support",
+                  "position" : "Electronic Data Processing",
                   "company" : "PT.Indomarco Prismatama",
                   "year" : "Oct 2024 - Present",
                   "description" : "Responsibility : Ensure branch convenient store online. Guide standby crew in convenient store to fix common hardware issue. Ensure the branch server runs properly. Reporting on daily connection recaps."
