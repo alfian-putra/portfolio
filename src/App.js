@@ -73,7 +73,7 @@ function App() {
         </li>
       </ul>
       <HeaderSection title="Alfian Eza Putra"
-                      desc="I am an IT enthusiast currently working as an IT Support, with professional experience as a developer responsible for developing and maintaining a Hadoop ecosystem managed through Apache Ambari. I also maintain a personal portfolio focused mainly on Python-based backend and automation projects."/>
+                      desc="EDP with a developer background in infrastructure automation and backend engineering. Previously maintained a production Hadoop ecosystem and currently building personal projects in Go and Python."/>
       <SkillSection 
           const cards = {[
             {
