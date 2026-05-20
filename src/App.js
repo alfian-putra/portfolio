@@ -20,6 +20,8 @@ import dataLogo from "./img/dataOrc.png";
 import vueLogo from "./img/vue.png";
 import goLogo from "./img/goLogo.png";
 
+import devopsLogo from "./img/devops.jpg";
+
 //contacct/find me
 import gmail from "./imgContact/gmail.svg";
 import linkedin from "./img/linkedin.png";
@@ -78,6 +80,26 @@ function App() {
           const cards = {[
             {
               id: 1,
+              title: 'KVM',
+              description: 'Virtualization',
+            },
+            {
+              id: 1,
+              title: 'Docker',
+              description: 'Containerization',
+            },
+            {
+              id: 1,
+              title: 'Jenkins',
+              description: 'Ci/CD automation',
+            },
+            {
+              id: 1,
+              title: 'Google Cloud Engine',
+              description: 'Cloud platform developed by Google.',
+            },
+            {
+              id: 1,
               title: 'FastApi',
               description: 'Python framework for backend development',
             },
@@ -122,6 +144,19 @@ function App() {
               description: 'As a main OS for daily use and server practicing.',
             }
           ]}
+      />
+<PortfolioSection title ="DevOps"
+                      list={[
+                             
+                              {
+                                "img" : devopsLogo,
+                                "name" : "Devops Tools Documentation",
+                                "tag" : ["Jenkins", "Docker", "Bash Scripting"],
+                                "description" : "Hands-on DevOps documentation covering Jenkins, Docker, GCP, and infrastructure automation.",
+                                "link" : "https://github.com/alfian-putra/devops-notes"
+                              }
+                          ]}
+
       />
       <PortfolioSection title ="Python"
                       list={[
